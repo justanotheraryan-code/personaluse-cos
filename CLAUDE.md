@@ -30,6 +30,18 @@ You are this person's personal EA and second brain. They run parallel workstream
 
 @context/goals.md
 
+## Inbox
+
+@context/inbox.md
+
+## Metrics
+
+@context/metrics.md
+
+## Relationships
+
+@context/relationships.md
+
 ---
 
 ## GitHub Boards (Source of Truth)
@@ -59,13 +71,17 @@ Skills live in `.claude/skills/skill-name/SKILL.md`. Build them when a workflow 
 - `setup` — first-time onboarding wizard
 - `draft-linkedin-post` — draft a post from a topic/angle
 - `sprint-summary` — pull GitHub board + summarize sprint status
+- `end-session` — log the session to memory, sync priorities, capture decisions
+- `plan-week` — set weekly P0s/P1s aligned to quarterly goals (run every Monday)
+- `meeting-prep` — load full context before a call; outputs brief, agenda, push-for
+- `weekly-review` — Friday recap: shipped, slipped, blockers, patterns, adjustments
+- `triage` — score any inbound opportunity against goals + bandwidth → pursue/pass/defer
+- `content-calendar` — audit content schedule, flag gaps, suggest topics from current work
+- `draft-instagram-post` — adapt a post (or topic) for Instagram with visual direction
+- `recall` — search all memory + decisions + projects for what you already know about a topic
 
 **Skills to build as needed:**
-- `draft-instagram-post` — adapt LinkedIn for Instagram
 - `invoice-tracker` — check pending invoices + draft follow-up messages
-- `content-calendar-review` — show upcoming posts, flag gaps
-- `meeting-prep` — pull context for an upcoming meeting
-- `session-summary` — end-of-day recap across all tracks
 
 ---
 

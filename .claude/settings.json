@@ -1,7 +1,7 @@
 {
   "permissions": {
     "allow": [
-      "Bash(git add .claude/rules/communication-style.md .claude/rules/content-style.md .claude/settings.json .gitignore CLAUDE.md context/current-priorities.md context/goals.md context/me.md context/team.md context/work.md projects/claw-work/README.md projects/content-calendar/README.md projects/the-good-bug/README.md .claude/FEEDBACK-LOG.md .claude/HEARTBEAT.md .claude/skills/ README.md memory/template.md)"
+      "Bash(git add .claude/rules/communication-style.md .claude/rules/content-style.md .claude/settings.json .gitignore CLAUDE.md context/current-priorities.md context/goals.md context/me.md context/team.md context/work.md context/inbox.md context/metrics.md context/relationships.md projects/claw-work/README.md projects/content-calendar/README.md projects/content-calendar/ideas.md projects/the-good-bug/README.md .claude/FEEDBACK-LOG.md .claude/HEARTBEAT.md .claude/skills/ README.md memory/template.md decisions/log.md)"
     ],
     "additionalDirectories": []
   }
